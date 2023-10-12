@@ -32,7 +32,7 @@ class final : public initial
 		
 		void display1()
 		{
-			cout<<"Z = X * Y \n"<<x*y<<"\n";
+			cout<<"Z = X * Y "<<x*y<<"\n";
 		}
 };
 
